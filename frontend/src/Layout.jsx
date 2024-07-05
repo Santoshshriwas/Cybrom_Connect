@@ -25,6 +25,7 @@ const Layout=()=>{
     
     <li className=""><IoHome /><Link to="home">shop</Link></li>
   <li className=""><IoHome /><Link to="home"></Link></li>
+  <li className=""><Link to="courses">Courses</Link></li>
 
 </ul>
 

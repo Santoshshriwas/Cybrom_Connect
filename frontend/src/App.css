@@ -224,6 +224,22 @@ h2 {
 }
 
 /* -------------------------------- Courses page by shubhamn soni ----------------------------------------- */
+#cordiv{
+width: 200px;
+height: 250px;
+background-color: #0073b1;
+color: black;
+align-items: center;
+justify-content: center;
+display: flex;
+font-size: 22px;
+border-radius: 25px;
+}
 
+#Main-div{
+display: flex;
+gap: 50px;
+margin-left: 300px;
+}
 
 /* -------------------------------- Courses page by shubhamn soni ----------------------------------------- */
