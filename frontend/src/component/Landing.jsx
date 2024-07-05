@@ -1,14 +1,18 @@
 import React from 'react'
 import img1 from "../assets/dbvmk0tsk0o0hd59fi64z3own.png";
+import img2 from "../assets/th.jpeg"
 const Landing = () => {
   return (
    <>
   <section>
     <div className='head'>
-      <div>
+      <div >
         <h1>Get Trained. Get Certified. Get Placed.</h1>
         <p>Unlock certified courses in emerging technologies to enhance proficiency, secure placements, and pave your path to success at the Best Software Training Institute In Bangalore.</p>
       </div>
+      <div>
+        <img src={img2} alt="img2" /></div>
+         <h1>Ethnus was felicitated for being an esteemed Emerging Technology Training Partner of India Skills</h1>
       <div>
 
       </div>
@@ -19,6 +23,7 @@ const Landing = () => {
       <div className="row">
       <h1 className='let1'>Let the right people know you’re open to work</h1>
       <h3 className='let2'>With the Open To Work feature, you can privately tell recruiters or publicly share with the LinkedIn community that you are looking for new job opportunities.</h3>
+
     </div>
     <div ><img className='img2' src={img1} alt="" /></div>
     </div>

@@ -8,6 +8,13 @@
   font-style: normal;
 }
 /* Landing page Css */
+.head{
+  background-color: #f5f5f5;
+  padding: 10px 0px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
 
 .container{
   width: 100%;
