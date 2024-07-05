@@ -4,6 +4,17 @@ const Landing = () => {
   return (
    <>
   <section>
+    <div className='head'>
+      <div>
+        <h1>Get Trained. Get Certified. Get Placed.</h1>
+        <p>Unlock certified courses in emerging technologies to enhance proficiency, secure placements, and pave your path to success at the Best Software Training Institute In Bangalore.</p>
+      </div>
+      <div>
+
+      </div>
+    </div>
+
+
     <div className="container">
       <div className="row">
       <h1 className='let1'>Let the right people know you’re open to work</h1>
@@ -13,7 +24,7 @@ const Landing = () => {
     </div>
 
     <div className='container1'>
-      <h1 style={{color:"red" , marginTop:"80px",marginRight:"20px"}}>Find the right job or <br/> internship for you</h1>
+      <h1 style={{color:"red" , marginTop:"80px",marginRight:"20px"}}>Find the right Courses or <br/> internship for you</h1>
       <ul>
         <div style={{marginTop:"10px"}}>SUGGESTED SEARCHES</div><br/>
         <ul>
