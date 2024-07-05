@@ -10,15 +10,15 @@ const Courses = () => {
 
     <div id='Main-div'>
        <div id='cordiv'>
-         MERN COURSE
+         MERN Full Stack COURSE
        </div>
     
        <div id='cordiv'>
-         Python COURSE
+         Python Full Stack COURSE
        </div>
     
        <div id='cordiv'>
-          JAVA COURSE
+          JAVA Full Stack COURSE
        </div>
   </div>
   </center>
